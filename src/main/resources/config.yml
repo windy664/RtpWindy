@@ -1,0 +1,8 @@
+Range:
+  x: 10000
+  z: 10000
+center: 40740:63:-8358
+Commands:
+  - eco take %player_name% 400
+Times: 32
+debug: true

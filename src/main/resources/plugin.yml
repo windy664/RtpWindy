@@ -1,0 +1,8 @@
+name: RtpWindy
+version: $version
+main: org.windy.rtpWindy.RtpWindy
+api-version: '1.21'
+commands:
+  sjtp:
+    description: Random teleport command.
+    usage: /<command>
